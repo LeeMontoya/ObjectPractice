@@ -6,16 +6,8 @@ using System.Threading.Tasks;
 
 namespace ObjectPractice
 {
-    class Program
+    class Closet
     {
-        static void Main(string[] args)
-        {
-            
-        }
-
-    }
-    
     
     }
-
 }
